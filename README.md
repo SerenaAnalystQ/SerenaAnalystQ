@@ -1,31 +1,22 @@
 
-# Hi, This is Serena Zhou
+## 👨‍💻 About Me
+
+I’m **Serena Zhou**, a **Data Analyst** passionate about transforming complex data into actionable insights. With hands-on expertise in **SQL, Excel, Python, Tableau and R**, I help organizations to take smarter decisions, and achieve measurable growth.  
+
+---
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/serena-zhou-272799346/)
-
-
----
-
-# Professional Summary | Data Analyst
-
-Results-driven Data Analyst with a Master's degree in Information Science (Data Analytics) from the University at Albany, SUNY, and hands-on experience building ETL pipelines, data models, and stakeholder-facing BI dashboards using SQL, Python, Power BI, and Tableau.
+- 📧 **Email:** [yilingzhou01@outlook.com](mailto:yilingzhou01@outlook.com)  
+- 🌐 **LinkedIn:** [linkedin.com/in/serena-zhou-272799346/](https://www.linkedin.com/in/serena-zhou-272799346/)  
+- 🐙 **GitHub:** [github.com/SerenaAnalystQ](https://github.com/SerenaAnalystQ)  
 
 ---
 
-## Skills
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
-
-
-### Tools:
-Excel, SQL, Python, Tableau
+## 🛠️ Tools & Technologies
+Excel, SQL, Python, Tableau, R
 
 ---
 
-# Projects
+# 🔗 Projects
 
 ## 1.Salary Dashboard | Excel
