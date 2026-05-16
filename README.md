@@ -15,8 +15,3 @@ I’m **Serena Zhou**, a **Data Analyst** passionate about transforming complex 
 ## 🛠️ Tools & Technologies
 Excel, SQL, Python, Tableau, R
 
----
-
-# 🔗 Projects
-
-## 1.Salary Dashboard | Excel
