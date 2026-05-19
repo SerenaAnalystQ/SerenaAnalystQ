@@ -1,7 +1,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Serena Zhou**, a **Data Analyst** passionate about transforming complex data into actionable insights. With hands-on expertise in **SQL, Excel, Python, Tableau and R**, I help organizations to take smarter decisions, and achieve measurable growth.  
+Hey, This is **Serena**, a **Data Analyst** passionate about transforming complex data into actionable insights. With hands-on expertise in **SQL, Excel, Python, Tableau and R**, I help organizations to take smarter decisions, and achieve measurable growth.  
 
 ---
 
